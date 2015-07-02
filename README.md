@@ -17,3 +17,4 @@ This repository is used for feature requests, bug reporting.
   * What page were you visiting when you had the issue?
   * What actions did you perform leading up to the issue? (Be specific, even if you think it's not relevant)
   * Was there an error message, and if so, what did it say?
+  * Try to provide links to screenshots of the issue if possible
