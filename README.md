@@ -10,8 +10,6 @@ This repository is used for feature requests, bug reporting.
 
 ## Reporting Bugs
 
-### How to report a bug
-
 1. Search the issue list for existing bugs that match the problem you're seeing
 2. Search the existing open issues for requests that are similar to yours, if it exists add a `+1` comment to that ticket, try to avoid creating duplicates when possible.
 3. If your problem is unique, click New Issue. The title should be formatted `bug - <brief description of the bug>`
